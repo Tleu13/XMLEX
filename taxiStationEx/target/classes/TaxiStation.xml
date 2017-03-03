@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TaxiStation xmlns="http://www.example.com/Station.xsd">
+    <CarTaxi typeTaxi="EconomTaxi">
+        <model>lada sedan</model>
+        <volumeOfEngine>1.6</volumeOfEngine>
+        <modelYear>1999</modelYear>
+        <licencePlate>149</licencePlate>
+        <maxSpeed>60</maxSpeed>
+        <price>350000</price>
+        <petrolConsumption>6</petrolConsumption>
+    </CarTaxi>
+    <CarTaxi typeTaxi="ComfortTaxi">
+        <model>toyota camry</model>
+        <volumeOfEngine>2.5</volumeOfEngine>
+        <modelYear>2013</modelYear>
+        <licencePlate>656</licencePlate>
+        <maxSpeed>240</maxSpeed>
+        <price>5500000</price>
+        <petrolConsumption>11</petrolConsumption>
+    </CarTaxi>
+    <CarTaxi typeTaxi="VipTaxi">
+        <model>aston martin DB11</model>
+        <volumeOfEngine>5.0</volumeOfEngine>
+        <modelYear>2012</modelYear>
+        <licencePlate>700</licencePlate>
+        <maxSpeed>360</maxSpeed>
+        <price>30000000</price>
+        <petrolConsumption>21</petrolConsumption>
+    </CarTaxi>
+</TaxiStation>
